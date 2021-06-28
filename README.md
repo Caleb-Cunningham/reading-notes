@@ -1,15 +1,11 @@
-# reading-notes
+# Growth-Mindset Project
 
 ## Heading
-Notes are cool
-THese notes are also cool
+# Growth-Mindset
 
-### Subheading
-ALAFMWNF
+### Growth Mindset 
+# _**Growth Mindset**_ is being able to surpass your own limits.<br>
+It also means you can find ways to improve yourself.<br>
+Meaning no matter how big the wall you always find a way to climb it.
 
-### Subheading 2
-yeah
-yopu know what i'm saying
-
-### Subheading 3
-these mine notes its gool
+                                               

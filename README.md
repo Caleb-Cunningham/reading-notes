@@ -1,13 +1,12 @@
 # Table of contents
-[Markdown Notes](/reading-notes/README2)
-[Command Line Notes](/reading-notes/README3)
-[Git Notes](/reading-notes/README4)
-[HTML Page Structure](/reading-note/README5)
+[Growth Mindset](/reading-notes/README6)<br>
+[Markdown Notes](/reading-notes/README2)<br>
+[Command Line Notes](/reading-notes/README3)<br>
+[Git Notes](/reading-notes/README4)<br>
+[HTML Page Structure](/reading-note/README5)<br>
+
+# Greetings my name is Caleb
+I am a student currently learning HTML and CSS. I like gaming and anime and also am currently trying to learn other things like 3d modeling and game development.
 
 
-
-# _**Growth Mindset**_ is being able to surpass your own limits.<br>
-* It also means you can find ways to improve yourself.<br>
-* Meaning no matter how big the wall you always find a way to climb it.<br>
-* Doing things like reading learning and new software help out in your growth<br>
 

@@ -7,3 +7,4 @@
 * _cd_ will let you move to a new directory
 *  _Is -a_ will lsit the stuff inside a directory including the hidden files
 * _file_ will gather information on what type of file or directory is.
+

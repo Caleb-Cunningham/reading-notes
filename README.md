@@ -1,5 +1,5 @@
 # Table of contents
-[Growth Mindset](/reading-notes/README6)<br>
+[Growth Structure](/reading-notes/README6)<br>
 [Markdown Notes](/reading-notes/README2)<br>
 [Command Line Notes](/reading-notes/README3)<br>
 [Git Notes](/reading-notes/README4)<br>

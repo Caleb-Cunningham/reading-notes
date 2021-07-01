@@ -1,8 +1,8 @@
-# JavaScript Notes
+# JavaScript 
 <p>
  JavaScript will be your bread and butter of web development and software development as a whole. These notes are for me to go over some basic things that can be done with this language.</p>
 
- ### Notes
+### Notes
 
  * With the _prompt_ command you can ask the user to do specific things like register their age or ask for their name.<br>
  * You can also use _If then_ statements basically what these do is cause a reaction to happen based off of user input. You can also pair this with other commands such as the _prompt_ command.<br>
